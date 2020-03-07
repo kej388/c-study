@@ -1,0 +1,5 @@
+﻿  sample05.c
+C:\C_WorkSpace\sample05\sample05\sample05.c(41,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '%'이(가) 있습니다.
+C:\C_WorkSpace\sample05\sample05\sample05.c(41,33): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\C_WorkSpace\sample05\sample05\sample05.c(41,33): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 3개가 제공되었습니다.
+  sample05.vcxproj -> C:\C_WorkSpace\sample05\Debug\sample05.exe
