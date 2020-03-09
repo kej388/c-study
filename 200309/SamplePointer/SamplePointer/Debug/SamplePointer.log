@@ -1,0 +1,10 @@
+﻿  samplepointer.c
+C:\C_WorkSpace\200309\SamplePointer\SamplePointer\samplepointer.c(10,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\C_WorkSpace\200309\SamplePointer\SamplePointer\samplepointer.c(11,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\C_WorkSpace\200309\SamplePointer\SamplePointer\samplepointer.c(23,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\C_WorkSpace\200309\SamplePointer\SamplePointer\samplepointer.c(24,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\C_WorkSpace\200309\SamplePointer\SamplePointer\samplepointer.c(46,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\C_WorkSpace\200309\SamplePointer\SamplePointer\samplepointer.c(47,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\C_WorkSpace\200309\SamplePointer\SamplePointer\samplepointer.c(48,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\C_WorkSpace\200309\SamplePointer\SamplePointer\samplepointer.c(49,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  SamplePointer.vcxproj -> C:\C_WorkSpace\200309\SamplePointer\Debug\SamplePointer.exe
