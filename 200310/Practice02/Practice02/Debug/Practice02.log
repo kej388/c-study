@@ -1,0 +1,4 @@
+﻿  practice.c
+C:\C_WorkSpace\200310\Practice02\Practice02\practice.c(19,16): warning C4047: 'return': 'char'의 간접 참조 수준이 'char [10]'과(와) 다릅니다.
+C:\C_WorkSpace\200310\Practice02\Practice02\practice.c(24,6): warning C4101: 'storenum' :참조되지 않은 지역 변수입니다.
+  Practice02.vcxproj -> C:\C_WorkSpace\200310\Practice02\Debug\Practice02.exe

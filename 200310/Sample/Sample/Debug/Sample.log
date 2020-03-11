@@ -1,0 +1,4 @@
+﻿  sample.c
+C:\C_WorkSpace\200310\Sample\Sample\sample.c(27): warning C4716: 'gugu': 값을 반환해야 합니다.
+C:\C_WorkSpace\200310\Sample\Sample\sample.c(18): warning C4172: 지역 변수 또는 임시: result의 주소를 반환하고 있습니다.
+  Sample.vcxproj -> C:\C_WorkSpace\200310\Sample\Debug\Sample.exe
