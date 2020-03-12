@@ -1,0 +1,3 @@
+﻿  structure.c
+C:\C_WorkSpace\200312\Structure\Structure\structure.c(148,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  Structure.vcxproj -> C:\C_WorkSpace\200312\Structure\Debug\Structure.exe
