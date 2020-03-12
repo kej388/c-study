@@ -1,0 +1,10 @@
+﻿  practice.c
+C:\C_WorkSpace\200312\Practice\Practice\practice.c(24,14): warning C4047: '함수': 'FILE **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+C:\C_WorkSpace\200312\Practice\Practice\practice.c(24,14): warning C4024: 'fopen_s': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\C_WorkSpace\200312\Practice\Practice\practice.c(31,15): warning C4047: '함수': 'FILE *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\C_WorkSpace\200312\Practice\Practice\practice.c(31,15): warning C4024: 'fprintf_s': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\C_WorkSpace\200312\Practice\Practice\practice.c(33,16): warning C4047: '함수': 'FILE *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\C_WorkSpace\200312\Practice\Practice\practice.c(33,16): warning C4024: 'fprintf_s': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\C_WorkSpace\200312\Practice\Practice\practice.c(38,12): warning C4047: '함수': 'FILE *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\C_WorkSpace\200312\Practice\Practice\practice.c(38,12): warning C4024: 'fclose': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  Practice.vcxproj -> C:\C_WorkSpace\200312\Practice\Debug\Practice.exe
