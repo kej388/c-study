@@ -1,0 +1,2 @@
+﻿func1.obj : error LNK2019: _pirntf 외부 기호(참조 위치: _func1 함수)에서 확인하지 못했습니다.
+C:\C_WorkSpace\200313\ConsoleApplication2\Debug\ConsoleApplication2.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
